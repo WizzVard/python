@@ -1,1 +1,7 @@
-print(10)
+import time
+
+
+
+if __name__ == '__main__':
+    time.sleep(22)
+    print(20)
